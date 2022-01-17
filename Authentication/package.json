@@ -1,0 +1,14 @@
+{
+  "name": "authentication",
+  "version": "1.0.0",
+  "description": "demo authentication application using mern stack",
+  "main": "authentication.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Darshan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

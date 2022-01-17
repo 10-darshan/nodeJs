@@ -1,0 +1,16 @@
+{
+  "name": "mongodb_demo",
+  "version": "1.0.0",
+  "description": "demo project for mongodb",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "darshan_10",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.6.2",
+    "mongoose": "^5.10.9"
+  }
+}
